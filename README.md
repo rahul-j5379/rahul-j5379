@@ -3,7 +3,7 @@
 ### About Me
 - 🔭 Currently learning **MERN Stack** & **Data Structures**
 - 🌱 Building projects to improve my skills
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `rahul.j5379@gmail.com`
 - ⚡ Fun fact: ...
 
 ### Technologies
