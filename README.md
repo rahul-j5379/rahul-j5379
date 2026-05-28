@@ -11,5 +11,3 @@
 **Backend:** Node.js, Express  
 **Languages:** Python, JavaScript  
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rahul-j5379&show_icons=true&theme=dark)
