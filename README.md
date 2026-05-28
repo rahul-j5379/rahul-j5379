@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm rahul</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# Hi, I'm Rahul 👋
 
-- 🔭 I’m currently working on **Markdown Note-taking App**
+### About Me
+- 🔭 Currently learning **MERN Stack** & **Data Structures**
+- 🌱 Building projects to improve my skills
+- 📫 Reach me at: `your.email@example.com`
+- ⚡ Fun fact: ...
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahul-j5379](https://github.com/rahul-j5379)
+### Technologies
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Languages:** Python, JavaScript  
 
-- 📫 How to reach me **rahul.j5379@gmail.com**
-
-
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rahul-j5379&show_icons=true&theme=dark)
