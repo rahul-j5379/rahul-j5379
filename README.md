@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 ECE @ PTU — 5th Semester
+🎓 **ECE @ PTU — 5th Semester
 ⚔️ Currently grinding Striver's A2Z DSA Sheet in C++
 🌱 Learning web dev through The Odin Project
 🛠️ Customized terminal nerd — WSL2 + Neovim + tmux + Catppuccin Mocha
